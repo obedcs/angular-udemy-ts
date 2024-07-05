@@ -9,6 +9,6 @@ const addNumbersArrow = ( a: number, b: number ): string => {
 const result = addNumbers(1, 2);
 
 console.log({result});
-
+console.log({result});
 
 export {};
